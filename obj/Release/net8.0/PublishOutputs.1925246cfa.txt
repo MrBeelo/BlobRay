@@ -1,0 +1,12 @@
+/var/home/MrBeelo/Desktop/BlobRay/bin/Release/net8.0/publish/BlobRay
+/var/home/MrBeelo/Desktop/BlobRay/bin/Release/net8.0/publish/assets/player.png
+/var/home/MrBeelo/Desktop/BlobRay/bin/Release/net8.0/publish/BlobRay.dll
+/var/home/MrBeelo/Desktop/BlobRay/bin/Release/net8.0/publish/BlobRay.deps.json
+/var/home/MrBeelo/Desktop/BlobRay/bin/Release/net8.0/publish/BlobRay.runtimeconfig.json
+/var/home/MrBeelo/Desktop/BlobRay/bin/Release/net8.0/publish/BlobRay.pdb
+/var/home/MrBeelo/Desktop/BlobRay/bin/Release/net8.0/publish/Raylib-cs.dll
+/var/home/MrBeelo/Desktop/BlobRay/bin/Release/net8.0/publish/runtimes/linux-x64/native/libraylib.so
+/var/home/MrBeelo/Desktop/BlobRay/bin/Release/net8.0/publish/runtimes/osx-arm64/native/libraylib.dylib
+/var/home/MrBeelo/Desktop/BlobRay/bin/Release/net8.0/publish/runtimes/osx-x64/native/libraylib.dylib
+/var/home/MrBeelo/Desktop/BlobRay/bin/Release/net8.0/publish/runtimes/win-x64/native/raylib.dll
+/var/home/MrBeelo/Desktop/BlobRay/bin/Release/net8.0/publish/runtimes/win-x86/native/raylib.dll

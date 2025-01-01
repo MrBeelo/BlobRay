@@ -1,0 +1,13 @@
+/var/home/MrBeelo/Desktop/BlobRay/bin/Debug/net8.0/BlobRay
+/var/home/MrBeelo/Desktop/BlobRay/bin/Debug/net8.0/BlobRay.dll
+/var/home/MrBeelo/Desktop/BlobRay/bin/Debug/net8.0/BlobRay.pdb
+/var/home/MrBeelo/Desktop/BlobRay/obj/Debug/net8.0/BlobRay.csproj.AssemblyReference.cache
+/var/home/MrBeelo/Desktop/BlobRay/obj/Debug/net8.0/BlobRay.GeneratedMSBuildEditorConfig.editorconfig
+/var/home/MrBeelo/Desktop/BlobRay/obj/Debug/net8.0/BlobRay.AssemblyInfoInputs.cache
+/var/home/MrBeelo/Desktop/BlobRay/obj/Debug/net8.0/BlobRay.AssemblyInfo.cs
+/var/home/MrBeelo/Desktop/BlobRay/obj/Debug/net8.0/BlobRay.csproj.CoreCompileInputs.cache
+/var/home/MrBeelo/Desktop/BlobRay/obj/Debug/net8.0/BlobRay.dll
+/var/home/MrBeelo/Desktop/BlobRay/obj/Debug/net8.0/refint/BlobRay.dll
+/var/home/MrBeelo/Desktop/BlobRay/obj/Debug/net8.0/BlobRay.pdb
+/var/home/MrBeelo/Desktop/BlobRay/bin/Debug/net8.0/assets/player.png
+/var/home/MrBeelo/Desktop/BlobRay/bin/Debug/net8.0/assets/success.wav

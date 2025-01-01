@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Q5weynSnuKofRxjwnbaH9FtkZrJ6+uvaACCG0sqCRXfn9drkCA+EnUkPtQxA7jB0Qongvzaz17l3t1wKfZv2Q==",
+  "success": true,
+  "projectFilePath": "/home/MrBeelo/Desktop/BlobRay/BlobRay.csproj",
+  "expectedPackageFiles": [
+    "/home/MrBeelo/.nuget/packages/raylib-cs/7.0.0/raylib-cs.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

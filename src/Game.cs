@@ -7,8 +7,10 @@ class Game
 {
     public static void Run()
     {
-        InitWindow(800, 480, "Hello World");
+        InitWindow(800, 480, "Blob Ray");
         InitAudioDevice();
+        SetWindowIcon(LoadImage("assets/icon.png"));
+
         //SetTargetFPS(60);
 
         Texture2D player = LoadTexture("assets/player.png");

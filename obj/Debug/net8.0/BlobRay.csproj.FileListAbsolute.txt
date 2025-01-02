@@ -11,3 +11,5 @@
 /var/home/MrBeelo/Desktop/BlobRay/obj/Debug/net8.0/BlobRay.pdb
 /var/home/MrBeelo/Desktop/BlobRay/bin/Debug/net8.0/assets/player.png
 /var/home/MrBeelo/Desktop/BlobRay/bin/Debug/net8.0/assets/success.wav
+/var/home/MrBeelo/Desktop/BlobRay/obj/Debug/net8.0/BlobRay.sourcelink.json
+/var/home/MrBeelo/Desktop/BlobRay/bin/Debug/net8.0/assets/icon.png

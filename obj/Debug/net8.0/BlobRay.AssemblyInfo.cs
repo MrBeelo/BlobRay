@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlobRay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2c87c7b647d9218f099159fca27b95354b4e352")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlobRay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlobRay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
